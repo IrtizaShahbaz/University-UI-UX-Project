@@ -1,6 +1,8 @@
 # University-UI-UX-Project
 ## Overview
 
+![Web App Screenshot](img/git-img.gif)
+
 "University-UI-UX-Project" is a highly polished front-end project designed to showcase an exceptional user interface (UI) and user experience (UX). This project is crafted using HTML, CSS, and JavaScript, ensuring a fully responsive design that looks great on any device.
 
 ## Features
@@ -8,8 +10,8 @@
 The layout adjusts seamlessly to different screen sizes, providing an optimal viewing experience on desktops, tablets, and mobile devices.
 ### 2. Elegant UI/UX: 
 They were carefully designed to offer an intuitive and engaging user experience, with attention to detail and usability.
-### 3. 
-Amazing Hover Effects: Interactive hover effects enhance visual appeal and user interaction.
+### 3. Amazing Hover Effects: 
+Interactive hover effects enhance visual appeal and user interaction.
 ### 4. Multi-Page Structure: 
 Comprises five key pages:
          Home: The welcoming page with an overview of the university.
