@@ -1,8 +1,7 @@
 # University-UI-UX-Project
 ## Overview
-<center>
+
 ![Web App Screenshot](img/git-img.gif)
-</center>
 
 "University-UI-UX-Project" is a highly polished front-end project designed to showcase an exceptional user interface (UI) and user experience (UX). This project is crafted using HTML, CSS, and JavaScript, ensuring a fully responsive design that looks great on any device.
 
